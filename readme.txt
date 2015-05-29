@@ -1,4 +1,4 @@
-=== cf7-to-wp ===
+=== Contact Form 7 To WordPress Post ===
 Contributors: pskli
 Donate link: http://mosaika.fr/contact
 Tags: wordpress, plugin, contact-form-7, cf7, submissions, save-entries, database-form, cf7-to-database, contact-form-7-entries
@@ -26,7 +26,7 @@ Installing "cf7-to-wp" can be done either by searching for "cf7-to-wp" via the "
 == Screenshots ==
 
 1. You'll see a new metabox in the edit screen of a CF7 form. This will allow you to enable saving entries to posts and sets the templates to be used for the title and content.
-2. Each entry is saved in a "Messages" post as a draft. A notification bubble indicates the number of drafts Messages. By changing the message to "Published", the bubble will disappear. 
+2. Each entry is saved in a "Messages" post. The list lets you read the messages and see user info such as IP, User Agent and such.
 
 == Frequently Asked Questions ==
 
